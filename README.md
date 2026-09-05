@@ -6,7 +6,7 @@
 
 <img width="100%" alt="cabecera" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:1D4ED8,65:6D28D9,100:A855F7&text=%C2%A1Hola%21%20Soy%20Adolfo&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=BIENVENIDO%20A%20MI%20RINC%C3%93N%20DE%20GITHUB&descColor=DDD6FE&descAlignY=54&descSize=17&animation=twinkling"/>
 
-<h1>👋 ¡Bienvenido! Mi nombre es <a href="https://github.com/manuel15963">Adolfo Berrocal</a></h1>
+<h1>👋 ¡Bienvenido! Mi nombre es Adolfo Berrocal</h1>
 
 <h3>Desarrollador Backend · Java &amp; Spring Boot · Lima, Perú 🇵🇪</h3>
 
