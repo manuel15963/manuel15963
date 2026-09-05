@@ -22,7 +22,9 @@ trabajo, con qué herramientas lo hago y los proyectos que construyo por mi cuen
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=manuel15963&label=VISITAS+AL+PERFIL&style=for-the-badge&color=6D28D9&labelColor=0F172A"/>
+<a href="mailto:adolfo.berrocal@vallegrande.edu.pe">
+<img src="https://img.shields.io/badge/ESCR%C3%8DBEME-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
+</a>
 <img src="https://img.shields.io/badge/JAVA-8%20%C2%B7%2011%20%C2%B7%2017%20%C2%B7%2020%20%C2%B7%2021-2563EB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/REACTIVO-SPRING%20WEBFLUX-7C3AED?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/LIMA-PER%C3%9A-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A"/>
@@ -154,26 +156,48 @@ El tiempo de configuración de entornos bajó un <b>60%</b>.
 
 <br>
 
-<!-- ═══════════════════════════ INSIGNIA ═══════════════════════════ -->
+<!-- ═══════════════════════════ PROYECTO ═══════════════════════════ -->
 
-<h2 align="center">🏆 Proyecto Insignia · VENDINGCOM</h2>
+<h2 align="center">🏆 Proyecto Propio · VENDINGCOM</h2>
 
 <p align="center">
-<b>SaaS multiempresa para operadores de máquinas expendedoras</b><br>
-12 microservicios Spring Boot · App Angular + Ionic · Google Cloud Run · Supabase (PostgreSQL)
+<b>Plataforma SaaS multiempresa para operadores de máquinas expendedoras.</b><br>
+Diseñada, construida y desplegada por mí de extremo a extremo: base de datos, backend,
+aplicación y puesta en producción.
+</p>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🧩 Arquitectura</h3>
+<p align="center">
+<b>12 microservicios</b> en Spring Boot, cada uno con su propio ciclo de vida y su despliegue
+independiente en <b>Google Cloud Run</b>. Autenticación centralizada con JWT, control de acceso por
+roles y aislamiento por empresa para el modelo multiempresa. Persistencia en <b>PostgreSQL</b> sobre
+Supabase, con integración continua por servicio en GitHub Actions.
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">📱 Producto</h3>
+<p align="center">
+Aplicación de gestión en <b>Angular</b> y app de campo en <b>Ionic</b> con modo
+<b>sin conexión</b>: el operador registra visitas, lecturas y recaudación sin señal, y todo se
+sincroniza al reconectar. Incluye motor de reportes, optimización de rutas, pronóstico de
+agotamiento de stock y un asistente conversacional con IA.
+</p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/12-MICROSERVICIOS-1D4ED8?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/294-ENDPOINTS-4338CA?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/81-TABLAS-6D28D9?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/36-REPORTES-7C3AED?style=for-the-badge&labelColor=0F172A"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/12-MICROSERVICIOS-1D4ED8?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/294-ENDPOINTS-4338CA?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/81-TABLAS-6D28D9?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/36-REPORTES-7C3AED?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/APP%20DE%20CAMPO-OFFLINE--FIRST-A855F7?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/ASISTENTE-IA-C084FC?style=flat-square&labelColor=0F172A"/>
-</p>
-
-<p align="center">
-<sub>Autenticación · Clientes · Ubicaciones · Máquinas · Inventario · Rutas y Visitas · Recaudación · Reportes · Tickets · Abastecimiento · Compras · Gastos</sub>
+<sub><b>Módulos:</b> Autenticación · Clientes · Ubicaciones · Máquinas · Inventario · Rutas y Visitas · Recaudación · Reportes · Tickets · Abastecimiento · Compras · Gastos</sub>
 </p>
 
 <br>
@@ -236,37 +260,17 @@ El tiempo de configuración de entornos bajó un <b>60%</b>.
 
 <br>
 
-<!-- ═══════════════════════════ ESTADÍSTICAS ═══════════════════════════ -->
+<!-- ═══════════════════════════ ACTIVIDAD ═══════════════════════════ -->
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
-
-<div align="center">
-
-<img height="180" alt="estadísticas de GitHub" src="./profile/stats.svg"/>
-<img height="180" alt="lenguajes más usados" src="./profile/languages.svg"/>
-
-<br><br>
-
-<img alt="racha de contribuciones"
-src="https://streak-stats.demolab.com?user=manuel15963&locale=es&hide_border=true&background=0D1117&border=30363D&ring=8B5CF6&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=60A5FA&dates=8B949E&stroke=30363D"/>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════ MÉTRICAS ═══════════════════════════ -->
-
-<h2 align="center">📡 Centro de Mando</h2>
+<h2 align="center">📊 Actividad de Desarrollo</h2>
 
 <p align="center">
-<img width="100%" alt="métricas de desarrollo" src="./assets/metrics.svg"/>
+<sub>La mayor parte de mi trabajo vive en repositorios privados de cliente y de proyecto propio.</sub>
 </p>
 
-<br>
-
-<!-- ═══════════════════════════ SERPIENTE ═══════════════════════════ -->
-
-<h2 align="center">🐍 Serpiente de Contribuciones</h2>
+<p align="center">
+<img width="100%" alt="actividad de desarrollo" src="./assets/metrics.svg"/>
+</p>
 
 <p align="center">
 <picture>
@@ -274,16 +278,6 @@ src="https://streak-stats.demolab.com?user=manuel15963&locale=es&hide_border=tru
 <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg"/>
 <img width="100%" alt="serpiente de contribuciones" src="./assets/github-snake-dark.svg"/>
 </picture>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════ 3D ═══════════════════════════ -->
-
-<h2 align="center">🌌 Universo de Contribuciones</h2>
-
-<p align="center">
-<img width="100%" alt="gráfico 3D de contribuciones" src="./profile-3d-contrib/profile-galaxy.svg"/>
 </p>
 
 <br>
@@ -338,6 +332,26 @@ public final class Developer {
     }
 }
 ```
+
+<br>
+
+<!-- ═══════════════════════════ CONTACTO ═══════════════════════════ -->
+
+<h2 align="center">📬 Hablemos</h2>
+
+<p align="center">
+¿Un proyecto backend, una consultoría o simplemente conversar sobre Java y arquitectura?<br>
+Estoy abierto a nuevas oportunidades.
+</p>
+
+<p align="center">
+<a href="mailto:adolfo.berrocal@vallegrande.edu.pe">
+<img src="https://img.shields.io/badge/Correo-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
+</a>
+<a href="https://github.com/manuel15963">
+<img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
+</a>
+</p>
 
 <br>
 
