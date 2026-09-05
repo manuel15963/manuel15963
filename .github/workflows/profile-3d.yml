@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 8 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
@@ -11,24 +13,22 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           USERNAME: manuel15963
+          SETTING_JSON: .github/3d-settings.json
 
       - name: Commit generated graph
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-
-          git add -A .
-
-          if git commit -m "Update 3D contributions"; then
-            git push
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git commit -m "chore: update 3D contributions" || exit 0
+          git pull --rebase --autostash
+          git push
