@@ -36,7 +36,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_details: percentage
-          plugin_languages_colors: "#3B82F6, #6366F1, #8B5CF6, #A855F7, #C084FC, #60A5FA, #818CF8, #A78BFA"
+          plugin_languages_colors: "0:#3B82F6, 1:#8B5CF6, 2:#A855F7, 3:#60A5FA, 4:#818CF8, 5:#C084FC, 6:#6366F1, 7:#A78BFA"
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
