@@ -5,19 +5,19 @@
 <div align="center">
 
 <img width="100%" alt="header"
-src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,30:1D4ED8,65:6D28D9,100:A855F7&text=ADOLFO%20BERROCAL&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20CLOUD&descColor=DDD6FE&descAlignY=57&descSize=16&animation=twinkling"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,30:1D4ED8,65:6D28D9,100:A855F7&text=ADOLFO%20BERROCAL&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=BACKEND%20JAVA%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20MICROSERVICES%20%E2%80%A2%20DEVOPS&descColor=DDD6FE&descAlignY=57&descSize=15&animation=twinkling"/>
 
 <a href="https://github.com/manuel15963">
 <img alt="typing"
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Backend+Developer+%E2%98%95+Java+%E2%80%A2+Spring+Boot;Microservices+%E2%80%A2+REST+APIs+%E2%80%A2+Clean+Architecture;Angular+%E2%80%A2+Ionic+%E2%80%A2+TypeScript;Cloud+Run+%E2%80%A2+Azure+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+Supabase;Building+reliable+software+from+Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA"/>
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Backend+Java+Developer+%E2%98%95+Banking+%40+BBVA;Spring+Boot+%E2%80%A2+WebFlux+%E2%80%A2+Reactive+Microservices;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Kafka+%E2%80%A2+Keycloak+%E2%80%A2+OpenAPI+%E2%80%A2+SonarQube;GCP+%E2%80%A2+Azure+%E2%80%A2+DataDog+%E2%80%A2+Grafana;Building+reliable+software+from+Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=manuel15963&label=PROFILE+VIEWS&style=for-the-badge&color=6D28D9&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-2563EB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/STACK-SPRING%20BOOT-7C3AED?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/BASED%20IN-LIMA%2C%20PER%C3%9A-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/BACKEND-JAVA%208%20%C2%B7%2011%20%C2%B7%2017-2563EB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/REACTIVE-SPRING%20WEBFLUX-7C3AED?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/LIMA-PER%C3%9A-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A"/>
 
 </div>
 
@@ -30,23 +30,23 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&dur
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">👨‍💻 Backend Engineering</h3>
+<h3 align="center">☕ Backend Engineering</h3>
 <p align="center">
-☕ <b>Java Backend Developer</b><br><br>
-🍃 Spring Boot &amp; REST APIs<br><br>
-🧩 Microservices Architecture<br><br>
-🔐 JWT Auth · RBAC · Multi-tenant SaaS<br><br>
-🧠 Clean Code &amp; Maintainability
+Java 8 · 11 · 17 with <b>Spring Boot</b><br><br>
+Reactive architecture with <b>WebFlux</b><br><br>
+REST APIs · DTOs · JDBC · OpenAPI<br><br>
+<b>Keycloak</b> SSO · role-based auth<br><br>
+JUnit · Mockito · JMeter testing
 </p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🚀 Current Focus</h3>
+<h3 align="center">🚀 Cloud &amp; DevOps</h3>
 <p align="center">
-☁️ Google Cloud Run &amp; Microsoft Azure<br><br>
-🐳 Docker &amp; Containers<br><br>
-🔄 CI/CD with GitHub Actions<br><br>
-🗄️ PostgreSQL · MySQL · Supabase<br><br>
-📱 Angular &amp; Ionic front-ends
+<b>Docker</b> &amp; <b>Kubernetes</b> (GKE / AKS)<br><br>
+<b>Terraform</b> IaC on GCP &amp; Azure<br><br>
+Pipelines: Jenkins · GitLab CI · Azure DevOps<br><br>
+<b>Kafka</b> messaging · API Gateway<br><br>
+DataDog · Prometheus · Grafana · SonarQube
 </p>
 </td>
 </tr>
@@ -54,12 +54,77 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&dur
 
 <br>
 
-<!-- ═══════════════════════════ FLAGSHIP ═══════════════════════════ -->
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
 
-<h2 align="center">🏆 Flagship Project · VENDINGCOM</h2>
+<h2 align="center">💼 Professional Experience</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="26%" valign="top" align="center">
+<img src="https://img.shields.io/badge/2025%20%E2%80%94%20NOW-A855F7?style=for-the-badge&labelColor=0F172A"/><br>
+<b>Novatec Solutions</b><br>
+<sub>Client: BBVA Colombia</sub>
+</td>
+<td valign="top">
+<b>Backend Java Developer · ASO / APX</b><br>
+Banking backend components in Java 11 under BBVA corporate standards. Reusable
+libraries for connection and data access, database connectivity through the TITAN
+framework, and remittance-flow analysis across logs, traces and SQL validations.
+</td>
+</tr>
+<tr>
+<td width="26%" valign="top" align="center">
+<img src="https://img.shields.io/badge/FEB%20%E2%80%94%20JUN%202025-7C3AED?style=for-the-badge&labelColor=0F172A"/><br>
+<b>BBVA</b><br>
+<sub>APX / LRBA</sub>
+</td>
+<td valign="top">
+<b>Backend Developer · Transactional &amp; Batch</b><br>
+Online and batch components on the APX and LRBA-Batch platforms. Refactoring of
+shared DTOs and libraries, working alongside solution architects. Change traceability
+secured with automated tests and GitLab version control.
+</td>
+</tr>
+<tr>
+<td width="26%" valign="top" align="center">
+<img src="https://img.shields.io/badge/2023-6D28D9?style=for-the-badge&labelColor=0F172A"/><br>
+<b>SOA-Cañete</b><br>
+<sub>Cloud · DevOps · QA</sub>
+</td>
+<td valign="top">
+<b>DevOps &amp; QA Automation Engineer</b><br>
+Reactive microservices in Java 8/17 with Spring Boot and WebFlux. Multi-stage Jenkins
+and GitLab CI pipelines with SonarQube gates to DEV/QA/PROD, AKS clusters provisioned
+with Terraform, Kafka messaging, and monitoring dashboards on DataDog and Grafana.
+</td>
+</tr>
+<tr>
+<td width="26%" valign="top" align="center">
+<img src="https://img.shields.io/badge/2022-1D4ED8?style=for-the-badge&labelColor=0F172A"/><br>
+<b>I.E.S.T. Valle Grande</b><br>
+<sub>Innovation project</sub>
+</td>
+<td valign="top">
+<b>DevOps Assistant &amp; Full Stack Developer</b><br>
+Automated development environment for a sales-management system. Dockerised stack,
+GitHub Actions CI for unit tests, and Java EE / Spring Boot modules over Oracle and
+SQL Server. Environment setup time cut by 60%.
+</td>
+</tr>
+</table>
 
 <p align="center">
-<b>Multi-tenant SaaS for vending-machine businesses</b><br>
+🎓 <b>Técnico titulado en Análisis de Sistemas</b> · I.E.S.T. Privado Valle Grande · 2021 – 2023
+</p>
+
+<br>
+
+<!-- ═══════════════════════════ FLAGSHIP ═══════════════════════════ -->
+
+<h2 align="center">🏆 Personal Flagship · VENDINGCOM</h2>
+
+<p align="center">
+<b>Multi-tenant SaaS for vending-machine operators</b><br>
 12 Spring Boot microservices · Angular + Ionic app · Google Cloud Run · Supabase (PostgreSQL)
 </p>
 
@@ -68,12 +133,12 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&dur
 <img src="https://img.shields.io/badge/294-ENDPOINTS-4338CA?style=flat-square&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/81-DB%20TABLES-6D28D9?style=flat-square&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/36-REPORTS-7C3AED?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/OFFLINE--FIRST-OPERATOR%20APP-A855F7?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/OFFLINE--FIRST-FIELD%20APP-A855F7?style=flat-square&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/AI-ASSISTANT-C084FC?style=flat-square&labelColor=0F172A"/>
 </p>
 
 <p align="center">
-Auth · Customers · Locations · Machines · Inventory · Routes &amp; Visits · Collections · Reports · Tickets · Supply · Purchases · Expenses
+<sub>Auth · Customers · Locations · Machines · Inventory · Routes &amp; Visits · Collections · Reports · Tickets · Supply · Purchases · Expenses</sub>
 </p>
 
 <br>
@@ -89,25 +154,48 @@ Auth · Customers · Locations · Machines · Inventory · Routes &amp; Visits �
 
 <br><br>
 
-<h3>🔥 Backend &amp; Frontend</h3>
-<img src="https://skillicons.dev/icons?i=spring,maven,nodejs,angular,ionic&theme=dark"/>
+<h3>🍃 Backend &amp; Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=spring,maven,nodejs,angular&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=0F172A"/>
 
 <br><br>
 
-<h3>☁️ Cloud &amp; DevOps</h3>
-<img src="https://skillicons.dev/icons?i=gcp,azure,docker,githubactions,git,github,linux&theme=dark"/>
+<h3>☁️ Cloud, DevOps &amp; IaC</h3>
+<img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,gitlab,git,github,linux&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0F172A"/>
+
+<br><br>
+
+<h3>📡 Messaging &amp; Observability</h3>
+<img src="https://skillicons.dev/icons?i=kafka,prometheus,grafana&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=0F172A"/>
 
 <br><br>
 
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark"/>
 <br>
-<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0F172A"/>
 
 <br><br>
 
-<h3>🛠️ Tools</h3>
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman&theme=dark"/>
+<h3>🧪 Testing &amp; Tools</h3>
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0F172A"/>
 
 </div>
 
@@ -171,11 +259,11 @@ src="https://streak-stats.demolab.com?user=manuel15963&hide_border=true&backgrou
 
 <p align="center">
 <img src="https://img.shields.io/badge/CLEAN_CODE-0F172A?style=for-the-badge&logo=sonarqube&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/MICROSERVICES-0F172A?style=for-the-badge&logo=icloud&logoColor=818CF8"/>
-<img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=postman&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/CLOUD_NATIVE-0F172A?style=for-the-badge&logo=googlecloud&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/REACTIVE-0F172A?style=for-the-badge&logo=reactivex&logoColor=818CF8"/>
+<img src="https://img.shields.io/badge/MICROSERVICES-0F172A?style=for-the-badge&logo=icloud&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/DEVSECOPS-0F172A?style=for-the-badge&logo=letsencrypt&logoColor=C084FC"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=818CF8"/>
-<img src="https://img.shields.io/badge/SECURITY_FIRST-0F172A?style=for-the-badge&logo=letsencrypt&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/OBSERVABILITY-0F172A?style=for-the-badge&logo=grafana&logoColor=A78BFA"/>
 </p>
 
 <br>
@@ -185,26 +273,29 @@ src="https://streak-stats.demolab.com?user=manuel15963&hide_border=true&backgrou
 <h2 align="center">☕ Developer.java</h2>
 
 ```java
+@Service
 public final class Developer {
 
     private final String name     = "Adolfo Berrocal";
-    private final String role     = "Backend Developer";
+    private final String role     = "Backend Java Developer";
     private final String location = "Lima, Perú 🇵🇪";
 
     private final String[] stack = {
-        "Java", "Spring Boot", "Microservices",
-        "Angular", "Ionic", "TypeScript",
-        "PostgreSQL", "Supabase", "Docker",
-        "Google Cloud Run", "Azure", "GitHub Actions"
+        "Java 8 / 11 / 17", "Spring Boot", "WebFlux",
+        "Microservices", "Kafka", "Keycloak",
+        "Docker", "Kubernetes", "Terraform",
+        "GCP", "Azure", "Jenkins", "GitLab CI",
+        "PostgreSQL", "Oracle", "MongoDB"
     };
 
-    public void build() {
-        learn();
-        design();
-        code();
-        test();
-        deploy();
-        improve();   // repeat forever
+    public Mono<Software> build() {
+        return analyze()
+                .flatMap(this::design)
+                .flatMap(this::code)
+                .flatMap(this::test)
+                .flatMap(this::deploy)
+                .doOnNext(this::monitor)
+                .repeat();   // never stop improving
     }
 
     public String mission() {
