@@ -25,3 +25,15 @@ Backend Developer | Java | Spring Boot | Cloud 🚀
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,docker,azure,postgres,mysql,linux,idea,vscode" />
 </p>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=manuel15963&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel15963&layout=compact&theme=github_dark&hide_border=true" />
+</p>
