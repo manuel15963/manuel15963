@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-galaxy.svg",
+  "backgroundColor": "#0D1117",
+  "foregroundColor": "#C9D1D9",
+  "strongColor": "#A855F7",
+  "weakColor": "#30363D",
+  "radarColor": "#8B5CF6",
+  "growingAnimation": true,
+  "contribColors": ["#161B22", "#1E3A8A", "#3B82F6", "#7C3AED", "#A855F7"]
+}

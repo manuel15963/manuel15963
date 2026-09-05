@@ -22,6 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           USERNAME: manuel15963
+          SETTING_JSON: .github/3d-settings.json
 
       - name: Commit generated graph
         run: |

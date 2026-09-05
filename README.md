@@ -160,7 +160,7 @@ src="https://streak-stats.demolab.com?user=manuel15963&hide_border=true&backgrou
 <h2 align="center">🌌 Contribution Universe</h2>
 
 <p align="center">
-<img width="100%" alt="3D contribution graph" src="./profile-3d-contrib/profile-night-view.svg"/>
+<img width="100%" alt="3D contribution graph" src="./profile-3d-contrib/profile-galaxy.svg"/>
 </p>
 
 <br>
