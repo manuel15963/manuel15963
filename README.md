@@ -157,45 +157,45 @@ SQL Server. Environment setup time cut by 60%.
 <h3>🍃 Backend &amp; Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=spring,maven,nodejs,angular&theme=dark"/>
 <br>
-<img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Spring_WebFlux-1D4ED8?style=for-the-badge&logo=spring&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Spring_Security-2563EB?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Keycloak-4338CA?style=for-the-badge&logo=keycloak&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Swagger_OpenAPI-6D28D9?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Ionic-7C3AED?style=for-the-badge&logo=ionic&logoColor=white&labelColor=0F172A"/>
 
 <br><br>
 
 <h3>☁️ Cloud, DevOps &amp; IaC</h3>
 <img src="https://skillicons.dev/icons?i=gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,gitlab,git,github,linux&theme=dark"/>
 <br>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-1D4ED8?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/SonarQube-4338CA?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Cloud_Run-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0F172A"/>
 
 <br><br>
 
 <h3>📡 Messaging &amp; Observability</h3>
 <img src="https://skillicons.dev/icons?i=kafka,prometheus,grafana&theme=dark"/>
 <br>
-<img src="https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/DataDog-7C3AED?style=for-the-badge&logo=datadog&logoColor=white&labelColor=0F172A"/>
 
 <br><br>
 
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark"/>
 <br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Oracle-1D4ED8?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/SQL_Server-4338CA?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0F172A"/>
 
 <br><br>
 
 <h3>🧪 Testing &amp; Tools</h3>
 <img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma&theme=dark"/>
 <br>
-<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/JUnit_5-6D28D9?style=for-the-badge&logo=junit5&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Mockito-7C3AED?style=for-the-badge&logo=java&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/JMeter-A855F7?style=for-the-badge&logo=apachejmeter&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Jira-C084FC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0F172A"/>
 
 </div>
 
