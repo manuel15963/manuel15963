@@ -166,6 +166,12 @@ Diseñada, construida y desplegada por mí de extremo a extremo: base de datos, 
 aplicación y puesta en producción.
 </p>
 
+<p align="center">
+<a href="https://github.com/manuel15963/vendingcom">
+<img src="https://img.shields.io/badge/VER%20LA%20ARQUITECTURA%20COMPLETA-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
+</a>
+</p>
+
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
