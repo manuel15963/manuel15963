@@ -265,20 +265,23 @@ agotamiento de stock y un asistente conversacional con IA.
 <h2 align="center">📊 Actividad de Desarrollo</h2>
 
 <p align="center">
-<sub>La mayor parte de mi trabajo vive en repositorios privados de cliente y de proyecto propio.</sub>
+<sub>La mayor parte de mi trabajo vive en repositorios privados de cliente y de proyecto propio,<br>
+así que el calendario público no cuenta toda la historia.</sub>
 </p>
 
-<p align="center">
-<img width="100%" alt="actividad de desarrollo" src="./assets/metrics.svg"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img height="200" alt="lenguajes más usados" src="./assets/lenguajes.svg"/>
+
+<br><br>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg"/>
 <img width="100%" alt="serpiente de contribuciones" src="./assets/github-snake-dark.svg"/>
 </picture>
-</p>
+
+</div>
 
 <br>
 
