@@ -4,13 +4,23 @@
 
 <div align="center">
 
-<img width="100%" alt="cabecera" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,30:1D4ED8,65:6D28D9,100:A855F7&text=ADOLFO%20BERROCAL&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=DESARROLLADOR%20BACKEND%20JAVA%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20MICROSERVICIOS%20%E2%80%A2%20DEVOPS&descColor=DDD6FE&descAlignY=57&descSize=15&animation=twinkling"/>
+<img width="100%" alt="cabecera" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:1D4ED8,65:6D28D9,100:A855F7&text=%C2%A1Hola%21%20Soy%20Adolfo&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=BIENVENIDO%20A%20MI%20RINC%C3%93N%20DE%20GITHUB&descColor=DDD6FE&descAlignY=54&descSize=17&animation=twinkling"/>
+
+<h1>👋 ¡Bienvenido! Mi nombre es <a href="https://github.com/manuel15963">Adolfo Berrocal</a></h1>
+
+<h3>Desarrollador Backend · Java &amp; Spring Boot · Lima, Perú 🇵🇪</h3>
 
 <a href="https://github.com/manuel15963">
-<img alt="presentación" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Desarrollador%20Backend%20Java%20%E2%98%95%20Banca%20y%20Sector%20P%C3%BAblico;Spring%20Boot%20%E2%80%A2%20WebFlux%20%E2%80%A2%20Microservicios%20reactivos;Docker%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Terraform%20%E2%80%A2%20CI%2FCD;Kafka%20%E2%80%A2%20Keycloak%20%E2%80%A2%20OpenAPI%20%E2%80%A2%20SonarQube;GCP%20%E2%80%A2%20Azure%20%E2%80%A2%20DataDog%20%E2%80%A2%20Grafana;Construyendo%20software%20confiable%20desde%20Lima%2C%20Per%C3%BA%20%F0%9F%87%B5%F0%9F%87%AA"/>
+<img alt="presentación" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Desarrollador%20Backend%20Java%20%E2%98%95%20Banca%20y%20Sector%20P%C3%BAblico;Spring%20Boot%20%E2%80%A2%20WebFlux%20%E2%80%A2%20Microservicios%20reactivos;Docker%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Terraform%20%E2%80%A2%20CI%2FCD;Kafka%20%E2%80%A2%20Keycloak%20%E2%80%A2%20OpenAPI%20%E2%80%A2%20SonarQube;GCP%20%E2%80%A2%20Azure%20%E2%80%A2%20DataDog%20%E2%80%A2%20Grafana;Gracias%20por%20pasar%20por%20aqu%C3%AD%2C%20ponte%20c%C3%B3modo%20%F0%9F%9A%80"/>
 </a>
 
 <br><br>
+
+<p><i>Me dedico a construir el motor que hay detrás de las aplicaciones: las APIs y los<br>
+servicios que sostienen operaciones bancarias y del Estado. Aquí encontrarás en qué<br>
+trabajo, con qué herramientas lo hago y los proyectos que construyo por mi cuenta.</i></p>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=manuel15963&label=VISITAS+AL+PERFIL&style=for-the-badge&color=6D28D9&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/JAVA-8%20%C2%B7%2011%20%C2%B7%2017%20%C2%B7%2020%20%C2%B7%2021-2563EB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0F172A"/>
