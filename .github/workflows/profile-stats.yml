@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=manuel15963&layout=compact&langs_count=8&hide_border=true&card_width=480&size_weight=0.5&count_weight=0.5&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117
+          options: username=manuel15963&locale=es&layout=compact&langs_count=8&hide_border=true&card_width=480&size_weight=0.5&count_weight=0.5&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117
           path: assets/lenguajes.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
